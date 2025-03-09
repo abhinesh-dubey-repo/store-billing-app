@@ -1,7 +1,5 @@
 # Store Billing Application
 
-
-
 # Overview 
 This is a Spring Boot application that calculates the total payable amount for a
 bill after applying applicable discounts and converting the amount into a specified
@@ -65,7 +63,7 @@ store-billing-app
        {
         "convertedAmount": 75000,
         "targetCurrency": "INR"
-        }
+       }
     
 
 ## Running Tests
