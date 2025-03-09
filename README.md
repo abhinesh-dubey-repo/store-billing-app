@@ -30,7 +30,7 @@ store-billing-app
 
 ## Setup and Running the Application
    # Clone the repository:
-     1. git clone https://github.com/abhinesh/store-billing-app.git
+     1. git clone https://github.com/abhinesh-dubey-repo/store-billing-app.git
         cd store-billing-app
 
    # Build the project:
